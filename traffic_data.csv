@@ -1,0 +1,601 @@
+date,location,traffic_volume,road_condition,vehicle_type
+6/24/2024,Abuja,139,Poor,Bus
+7/15/2024,Lagos,1003,Fair,Bus
+6/21/2025,Onitsha,986,Good,Truck
+5/17/2025,Abuja,239,Good,Truck
+8/2/2025,Enugu,1032,Poor,Car
+7/30/2024,Onitsha,952,Good,Bus
+12/14/2024,Port Harcourt,1143,Poor,Bus
+7/4/2024,Port Harcourt,646,Poor,Bus
+2/2/2025,Port Harcourt,1642,Fair,Truck
+6/19/2025,Onitsha,382,Good,Bus
+8/7/2025,Enugu,1037,Good,Bus
+12/11/2024,Port Harcourt,296,Good,Truck
+1/1/2025,Onitsha,1323,Good,Bus
+7/8/2025,Enugu,896,Fair,Car
+6/16/2024,Lagos,1633,Poor,Bus
+3/9/2024,Abuja,1517,Good,Bus
+3/8/2025,Abuja,1330,Good,Bus
+1/26/2025,Abuja,383,Good,Bus
+5/27/2025,Abuja,790,Good,Bus
+3/16/2024,Port Harcourt,917,Poor,Truck
+9/7/2024,Enugu,665,Fair,Bus
+1/7/2024,Enugu,1370,Fair,Motorcycle
+3/20/2025,Lagos,755,Poor,Car
+2/14/2024,Abuja,1154,Good,Truck
+11/21/2024,Port Harcourt,1152,Fair,Truck
+6/1/2024,Lagos,354,Poor,Motorcycle
+7/2/2024,Abuja,1753,Fair,Bus
+4/22/2024,Lagos,1236,Good,Motorcycle
+7/8/2024,Port Harcourt,107,Fair,Bus
+10/17/2024,Port Harcourt,2048,Poor,Motorcycle
+11/8/2024,Lagos,608,Poor,Truck
+7/20/2024,Abuja,1989,Fair,Motorcycle
+4/7/2025,Onitsha,1902,Fair,Car
+7/4/2025,Onitsha,1045,Fair,Bus
+5/9/2025,Onitsha,374,Poor,Bus
+5/17/2024,Abuja,1834,Fair,Motorcycle
+4/28/2025,Onitsha,1947,Good,Bus
+7/14/2024,Lagos,2122,Fair,Truck
+3/13/2024,Port Harcourt,1265,Fair,Bus
+9/14/2024,Abuja,1802,Fair,Motorcycle
+2/4/2025,Port Harcourt,1167,Fair,Bus
+1/9/2025,Enugu,2052,Good,Motorcycle
+12/15/2024,Enugu,1729,Fair,Truck
+8/6/2025,Lagos,2049,Poor,Car
+10/6/2024,Abuja,2118,Fair,Bus
+6/6/2025,Port Harcourt,244,Fair,Motorcycle
+3/24/2025,Onitsha,488,Fair,Car
+11/13/2024,Abuja,709,Good,Truck
+1/26/2025,Lagos,1609,Good,Bus
+5/31/2024,Enugu,1222,Fair,Truck
+4/2/2024,Onitsha,862,Fair,Car
+8/12/2024,Port Harcourt,874,Good,Truck
+12/22/2024,Abuja,1053,Poor,Bus
+4/26/2025,Lagos,965,Fair,Motorcycle
+8/2/2025,Onitsha,428,Fair,Truck
+8/7/2024,Port Harcourt,1488,Poor,Motorcycle
+4/26/2025,Port Harcourt,1615,Fair,Car
+1/20/2024,Abuja,1169,Poor,Bus
+5/31/2025,Abuja,691,Poor,Truck
+2/3/2024,Port Harcourt,681,Fair,Bus
+5/3/2024,Lagos,666,Fair,Car
+10/13/2024,Lagos,1192,Good,Bus
+2/19/2025,Lagos,1200,Good,Car
+5/10/2024,Onitsha,1045,Poor,Truck
+3/24/2024,Abuja,1640,Fair,Car
+2/6/2025,Lagos,585,Fair,Car
+1/22/2024,Port Harcourt,1219,Good,Motorcycle
+8/2/2025,Lagos,1206,Good,Truck
+7/22/2024,Enugu,1488,Fair,Motorcycle
+2/17/2024,Port Harcourt,105,Fair,Bus
+6/8/2025,Abuja,153,Poor,Truck
+12/15/2024,Lagos,1397,Good,Motorcycle
+4/17/2024,Abuja,874,Poor,Car
+1/28/2025,Abuja,838,Fair,Truck
+10/3/2024,Abuja,655,Fair,Motorcycle
+11/5/2024,Enugu,857,Good,Bus
+2/5/2024,Enugu,1397,Fair,Bus
+9/17/2024,Enugu,1376,Good,Truck
+4/1/2025,Port Harcourt,1381,Poor,Motorcycle
+4/19/2025,Abuja,661,Fair,Motorcycle
+7/20/2025,Onitsha,491,Good,Motorcycle
+7/9/2025,Abuja,1590,Good,Truck
+8/3/2024,Enugu,1117,Good,Car
+3/10/2025,Abuja,1235,Good,Motorcycle
+2/9/2024,Port Harcourt,1846,Poor,Truck
+5/11/2024,Port Harcourt,1596,Poor,Bus
+2/17/2025,Abuja,338,Fair,Car
+4/5/2025,Lagos,172,Fair,Truck
+7/20/2025,Onitsha,1646,Fair,Truck
+1/8/2025,Onitsha,1450,Good,Car
+2/14/2024,Lagos,295,Good,Motorcycle
+5/10/2025,Onitsha,1767,Fair,Motorcycle
+7/16/2024,Lagos,2131,Good,Car
+4/10/2024,Port Harcourt,2047,Good,Truck
+6/29/2024,Abuja,805,Poor,Truck
+6/18/2024,Lagos,778,Good,Bus
+1/30/2024,Port Harcourt,2049,Good,Bus
+10/9/2024,Enugu,962,Fair,Motorcycle
+7/9/2024,Abuja,1761,Poor,Motorcycle
+1/13/2024,Abuja,1485,Poor,Car
+5/3/2025,Lagos,585,Good,Bus
+3/19/2025,Lagos,121,Fair,Truck
+4/16/2024,Abuja,893,Fair,Car
+5/12/2025,Abuja,387,Good,Truck
+12/15/2024,Lagos,1394,Good,Motorcycle
+5/1/2025,Lagos,1098,Fair,Car
+8/22/2024,Onitsha,1922,Good,Car
+6/13/2025,Abuja,435,Poor,Car
+1/6/2024,Port Harcourt,791,Good,Bus
+2/19/2024,Port Harcourt,136,Fair,Truck
+3/14/2025,Lagos,973,Good,Car
+11/28/2024,Enugu,464,Fair,Bus
+7/1/2024,Port Harcourt,1513,Good,Bus
+2/25/2025,Enugu,146,Poor,Car
+8/22/2025,Port Harcourt,1313,Poor,Car
+9/17/2024,Abuja,1068,Good,Truck
+4/20/2025,Abuja,684,Poor,Car
+8/11/2025,Enugu,873,Good,Bus
+8/21/2024,Abuja,183,Good,Car
+11/27/2024,Enugu,955,Fair,Motorcycle
+8/13/2024,Lagos,1926,Poor,Bus
+4/14/2025,Port Harcourt,1978,Fair,Motorcycle
+3/26/2024,Enugu,898,Poor,Motorcycle
+4/21/2025,Port Harcourt,1888,Good,Motorcycle
+9/4/2024,Port Harcourt,2127,Fair,Motorcycle
+7/2/2024,Port Harcourt,1926,Good,Car
+3/17/2024,Lagos,936,Fair,Car
+3/26/2024,Port Harcourt,224,Good,Motorcycle
+8/18/2024,Lagos,2000,Poor,Truck
+11/11/2024,Port Harcourt,654,Poor,Truck
+7/29/2025,Port Harcourt,1353,Poor,Bus
+2/4/2025,Abuja,1152,Poor,Truck
+2/5/2024,Onitsha,122,Good,Motorcycle
+8/12/2025,Abuja,1675,Good,Motorcycle
+10/15/2024,Abuja,1835,Fair,Motorcycle
+6/10/2024,Abuja,431,Fair,Bus
+2/15/2024,Lagos,1267,Poor,Car
+4/20/2025,Lagos,2150,Poor,Motorcycle
+2/2/2025,Port Harcourt,1942,Good,Truck
+2/15/2024,Abuja,2060,Fair,Bus
+2/12/2024,Lagos,896,Fair,Truck
+10/17/2024,Enugu,685,Good,Bus
+4/5/2024,Port Harcourt,2126,Poor,Car
+7/2/2024,Lagos,1062,Poor,Motorcycle
+8/18/2024,Port Harcourt,2054,Fair,Truck
+9/22/2024,Port Harcourt,1805,Fair,Bus
+9/26/2024,Abuja,282,Good,Car
+12/7/2024,Enugu,1050,Good,Bus
+1/2/2024,Onitsha,673,Fair,Motorcycle
+10/14/2024,Lagos,1076,Fair,Truck
+7/27/2024,Abuja,909,Good,Bus
+7/14/2025,Enugu,1034,Good,Motorcycle
+5/12/2025,Abuja,1897,Good,Bus
+6/10/2024,Lagos,1501,Poor,Motorcycle
+9/12/2024,Abuja,345,Poor,Car
+12/4/2024,Onitsha,281,Good,Car
+7/30/2025,Onitsha,1181,Fair,Motorcycle
+4/6/2025,Abuja,1326,Good,Motorcycle
+9/23/2024,Port Harcourt,737,Poor,Truck
+3/12/2025,Onitsha,1370,Fair,Car
+5/21/2025,Onitsha,1893,Good,Bus
+6/23/2025,Enugu,1089,Good,Car
+6/5/2024,Enugu,208,Fair,Car
+1/9/2024,Onitsha,1907,Poor,Motorcycle
+4/26/2025,Lagos,1450,Fair,Bus
+3/4/2025,Lagos,1209,Fair,Truck
+10/25/2024,Onitsha,437,Fair,Truck
+12/14/2024,Port Harcourt,2082,Poor,Motorcycle
+6/3/2025,Abuja,1506,Poor,Car
+5/23/2024,Abuja,2147,Poor,Truck
+7/29/2024,Enugu,244,Poor,Truck
+8/19/2024,Onitsha,1711,Fair,Car
+3/24/2025,Port Harcourt,391,Fair,Bus
+2/14/2024,Lagos,1631,Fair,Motorcycle
+6/5/2025,Enugu,1458,Good,Truck
+3/16/2025,Abuja,1784,Good,Motorcycle
+6/25/2024,Onitsha,120,Good,Car
+3/3/2025,Port Harcourt,1725,Poor,Truck
+6/1/2025,Lagos,1709,Poor,Car
+5/24/2024,Enugu,2036,Fair,Motorcycle
+1/12/2024,Enugu,1966,Poor,Truck
+6/9/2024,Lagos,1774,Good,Truck
+7/2/2025,Lagos,637,Good,Motorcycle
+3/10/2024,Enugu,1557,Good,Bus
+12/29/2024,Onitsha,2127,Poor,Motorcycle
+2/19/2024,Lagos,2190,Poor,Truck
+1/1/2025,Abuja,1556,Good,Motorcycle
+5/5/2025,Onitsha,877,Good,Truck
+3/12/2025,Enugu,1872,Poor,Motorcycle
+4/2/2024,Enugu,2110,Fair,Bus
+5/10/2025,Abuja,585,Fair,Truck
+7/13/2025,Port Harcourt,161,Poor,Truck
+4/6/2025,Onitsha,1105,Poor,Truck
+7/30/2024,Onitsha,1859,Good,Car
+4/15/2024,Abuja,1612,Poor,Car
+3/18/2024,Port Harcourt,1380,Good,Motorcycle
+6/20/2025,Enugu,303,Poor,Truck
+3/8/2024,Lagos,1704,Good,Truck
+7/15/2025,Onitsha,1410,Fair,Bus
+5/5/2025,Port Harcourt,1047,Poor,Motorcycle
+2/20/2025,Lagos,1721,Good,Truck
+2/3/2024,Lagos,1108,Fair,Car
+11/27/2024,Enugu,1474,Fair,Car
+3/9/2024,Lagos,610,Fair,Motorcycle
+8/18/2024,Onitsha,196,Poor,Motorcycle
+7/27/2025,Lagos,164,Poor,Motorcycle
+3/19/2024,Enugu,247,Poor,Truck
+3/3/2025,Abuja,427,Fair,Truck
+8/11/2025,Port Harcourt,1841,Poor,Bus
+2/4/2025,Port Harcourt,722,Good,Car
+1/4/2025,Lagos,1646,Poor,Truck
+2/14/2025,Onitsha,910,Poor,Bus
+1/15/2025,Onitsha,115,Fair,Car
+6/4/2025,Onitsha,1940,Fair,Motorcycle
+2/10/2025,Onitsha,2072,Good,Truck
+7/3/2024,Abuja,1745,Fair,Car
+6/30/2024,Port Harcourt,1987,Good,Bus
+6/30/2025,Onitsha,1582,Good,Truck
+9/17/2024,Onitsha,1428,Poor,Motorcycle
+2/14/2024,Lagos,302,Poor,Motorcycle
+11/7/2024,Onitsha,1943,Good,Truck
+10/3/2024,Onitsha,827,Fair,Motorcycle
+3/9/2025,Onitsha,235,Good,Motorcycle
+10/1/2024,Port Harcourt,1066,Fair,Motorcycle
+7/3/2024,Abuja,193,Fair,Bus
+5/1/2024,Abuja,1656,Good,Car
+2/10/2025,Abuja,1402,Fair,Bus
+1/19/2024,Onitsha,1844,Poor,Bus
+9/4/2024,Port Harcourt,154,Poor,Truck
+1/6/2024,Abuja,686,Good,Car
+4/24/2025,Onitsha,515,Poor,Motorcycle
+6/6/2024,Abuja,1327,Good,Bus
+2/4/2025,Port Harcourt,2025,Fair,Car
+9/3/2024,Enugu,558,Fair,Bus
+3/9/2024,Enugu,1010,Fair,Truck
+8/26/2024,Enugu,1447,Poor,Motorcycle
+4/12/2024,Onitsha,2151,Poor,Car
+3/26/2025,Abuja,402,Poor,Car
+3/29/2024,Port Harcourt,1696,Poor,Truck
+4/1/2024,Port Harcourt,936,Fair,Motorcycle
+3/15/2025,Abuja,2037,Poor,Car
+1/17/2024,Abuja,401,Poor,Car
+5/9/2025,Port Harcourt,125,Fair,Motorcycle
+1/15/2025,Enugu,488,Poor,Motorcycle
+4/14/2024,Abuja,474,Good,Bus
+3/14/2024,Abuja,1213,Poor,Car
+3/4/2025,Enugu,226,Good,Bus
+10/22/2024,Abuja,845,Fair,Truck
+7/25/2024,Enugu,992,Fair,Truck
+7/9/2024,Onitsha,1735,Poor,Truck
+1/21/2025,Abuja,1368,Fair,Truck
+7/3/2025,Onitsha,673,Poor,Truck
+12/8/2024,Enugu,914,Fair,Bus
+8/29/2024,Lagos,2192,Fair,Motorcycle
+9/22/2024,Port Harcourt,1353,Good,Car
+6/11/2025,Port Harcourt,665,Poor,Motorcycle
+7/17/2024,Abuja,1923,Poor,Truck
+4/13/2025,Enugu,991,Poor,Car
+7/31/2024,Lagos,497,Fair,Motorcycle
+6/29/2025,Enugu,772,Good,Motorcycle
+6/17/2025,Onitsha,1534,Good,Truck
+9/24/2024,Enugu,384,Fair,Motorcycle
+10/30/2024,Port Harcourt,329,Good,Bus
+5/19/2024,Lagos,1928,Poor,Car
+2/6/2024,Port Harcourt,223,Poor,Car
+4/1/2025,Lagos,2018,Poor,Car
+2/9/2025,Enugu,2192,Good,Truck
+5/6/2024,Port Harcourt,279,Fair,Car
+10/2/2024,Enugu,1413,Poor,Motorcycle
+10/28/2024,Enugu,505,Poor,Truck
+3/10/2025,Port Harcourt,1252,Good,Bus
+8/15/2024,Abuja,1693,Poor,Motorcycle
+6/29/2025,Onitsha,557,Fair,Car
+3/19/2025,Onitsha,1962,Good,Truck
+8/16/2025,Port Harcourt,763,Good,Motorcycle
+4/13/2024,Onitsha,1213,Good,Car
+8/7/2025,Enugu,147,Good,Car
+6/1/2024,Lagos,1815,Fair,Bus
+9/25/2024,Enugu,861,Fair,Motorcycle
+8/14/2024,Abuja,460,Good,Car
+7/14/2024,Lagos,2098,Good,Car
+5/4/2024,Abuja,1301,Good,Motorcycle
+12/3/2024,Onitsha,1218,Fair,Car
+5/9/2024,Enugu,759,Good,Bus
+5/11/2025,Enugu,1555,Fair,Motorcycle
+7/9/2025,Port Harcourt,413,Fair,Truck
+6/27/2024,Abuja,2043,Fair,Motorcycle
+7/13/2024,Abuja,573,Fair,Car
+4/21/2024,Enugu,1398,Good,Bus
+5/16/2024,Lagos,557,Fair,Truck
+7/28/2025,Port Harcourt,448,Fair,Truck
+3/25/2024,Onitsha,1367,Fair,Motorcycle
+11/9/2024,Port Harcourt,1970,Poor,Motorcycle
+1/18/2025,Enugu,1087,Good,Car
+4/3/2025,Lagos,164,Poor,Motorcycle
+6/9/2024,Lagos,2184,Poor,Bus
+9/11/2024,Onitsha,1328,Good,Motorcycle
+1/29/2024,Enugu,581,Poor,Truck
+3/20/2024,Enugu,1465,Poor,Truck
+3/5/2025,Lagos,240,Fair,Car
+11/25/2024,Lagos,2138,Poor,Truck
+2/11/2024,Lagos,782,Poor,Motorcycle
+10/19/2024,Abuja,1525,Fair,Bus
+2/28/2025,Abuja,811,Fair,Car
+12/20/2024,Onitsha,433,Good,Truck
+2/29/2024,Onitsha,285,Good,Motorcycle
+12/1/2024,Abuja,2009,Fair,Motorcycle
+5/11/2024,Abuja,1589,Fair,Bus
+6/14/2024,Abuja,1902,Good,Motorcycle
+1/5/2025,Lagos,2055,Poor,Car
+3/27/2024,Enugu,1420,Poor,Motorcycle
+1/15/2024,Lagos,1253,Poor,Motorcycle
+6/27/2024,Abuja,1898,Poor,Bus
+12/30/2024,Abuja,1037,Fair,Car
+10/20/2024,Abuja,1787,Poor,Car
+11/9/2024,Enugu,1056,Fair,Truck
+5/9/2025,Abuja,341,Fair,Bus
+12/9/2024,Lagos,223,Fair,Motorcycle
+8/4/2025,Onitsha,1180,Good,Bus
+9/24/2024,Lagos,1636,Fair,Motorcycle
+6/22/2025,Abuja,950,Good,Truck
+5/16/2025,Abuja,2175,Poor,Car
+10/17/2024,Enugu,1032,Good,Bus
+8/15/2025,Lagos,776,Poor,Motorcycle
+7/14/2024,Enugu,2117,Poor,Bus
+5/31/2025,Lagos,1416,Fair,Car
+5/15/2024,Onitsha,1884,Poor,Bus
+8/22/2024,Lagos,1114,Fair,Bus
+9/15/2024,Lagos,1091,Good,Car
+3/13/2024,Onitsha,1079,Poor,Bus
+5/31/2025,Lagos,1785,Fair,Motorcycle
+5/27/2025,Enugu,185,Good,Motorcycle
+6/16/2025,Enugu,659,Fair,Bus
+4/22/2025,Port Harcourt,388,Poor,Truck
+6/27/2025,Lagos,872,Good,Truck
+1/3/2025,Enugu,1653,Good,Truck
+7/15/2025,Lagos,542,Good,Bus
+1/3/2025,Abuja,1859,Good,Truck
+8/22/2024,Enugu,690,Good,Car
+5/30/2024,Abuja,1446,Fair,Motorcycle
+4/24/2024,Onitsha,135,Poor,Bus
+6/11/2024,Lagos,768,Fair,Motorcycle
+3/25/2024,Onitsha,703,Fair,Bus
+3/20/2024,Abuja,386,Good,Motorcycle
+2/8/2025,Abuja,1889,Fair,Motorcycle
+2/5/2025,Lagos,1395,Poor,Bus
+1/29/2025,Lagos,1731,Fair,Truck
+1/1/2024,Port Harcourt,2113,Poor,Bus
+8/14/2024,Lagos,939,Poor,Motorcycle
+4/29/2024,Enugu,993,Poor,Motorcycle
+4/28/2024,Enugu,1035,Poor,Bus
+6/5/2024,Abuja,601,Good,Car
+3/1/2025,Enugu,210,Good,Motorcycle
+6/22/2024,Port Harcourt,577,Fair,Motorcycle
+3/20/2025,Onitsha,1282,Fair,Motorcycle
+8/2/2024,Onitsha,1285,Fair,Truck
+3/28/2024,Enugu,1016,Fair,Motorcycle
+4/21/2025,Abuja,1906,Fair,Bus
+8/31/2024,Lagos,1600,Poor,Car
+1/11/2025,Port Harcourt,684,Poor,Motorcycle
+1/12/2024,Lagos,1448,Good,Truck
+2/10/2025,Lagos,113,Poor,Truck
+4/3/2024,Lagos,187,Poor,Bus
+12/25/2024,Lagos,806,Fair,Car
+11/6/2024,Port Harcourt,890,Poor,Motorcycle
+1/27/2025,Lagos,448,Poor,Bus
+3/31/2024,Abuja,2057,Good,Bus
+5/25/2024,Onitsha,374,Poor,Motorcycle
+5/24/2024,Abuja,2173,Fair,Motorcycle
+8/6/2025,Abuja,1127,Good,Truck
+2/26/2024,Onitsha,1394,Good,Motorcycle
+9/2/2024,Abuja,1609,Poor,Car
+6/23/2024,Onitsha,1159,Fair,Car
+3/8/2024,Abuja,1284,Poor,Bus
+8/28/2024,Lagos,101,Fair,Motorcycle
+10/19/2024,Lagos,1513,Good,Car
+2/1/2024,Onitsha,2104,Poor,Truck
+10/31/2024,Onitsha,845,Good,Bus
+7/6/2025,Lagos,1789,Good,Bus
+7/6/2024,Onitsha,1241,Poor,Bus
+9/12/2024,Lagos,1968,Fair,Motorcycle
+11/16/2024,Abuja,923,Fair,Truck
+1/29/2024,Abuja,1528,Poor,Bus
+1/8/2024,Abuja,154,Poor,Truck
+7/9/2025,Abuja,687,Good,Car
+12/12/2024,Abuja,1497,Poor,Motorcycle
+5/13/2024,Onitsha,1818,Good,Truck
+11/28/2024,Enugu,614,Good,Car
+8/1/2024,Onitsha,1572,Poor,Car
+3/30/2024,Onitsha,1081,Good,Motorcycle
+1/13/2025,Onitsha,424,Poor,Bus
+1/22/2024,Onitsha,547,Poor,Motorcycle
+4/17/2024,Lagos,1901,Fair,Bus
+1/11/2025,Enugu,1592,Fair,Bus
+6/14/2024,Abuja,1703,Good,Car
+1/17/2025,Abuja,1144,Good,Truck
+8/3/2025,Port Harcourt,504,Good,Bus
+2/17/2025,Port Harcourt,998,Fair,Motorcycle
+5/30/2024,Enugu,1253,Poor,Bus
+2/2/2024,Lagos,1481,Fair,Car
+4/15/2025,Lagos,1234,Poor,Bus
+1/11/2024,Lagos,1314,Fair,Car
+11/29/2024,Port Harcourt,1551,Poor,Truck
+7/4/2025,Enugu,344,Fair,Car
+12/25/2024,Onitsha,1565,Fair,Truck
+4/9/2025,Enugu,636,Poor,Bus
+5/27/2025,Enugu,629,Poor,Motorcycle
+3/23/2024,Abuja,694,Fair,Bus
+9/15/2024,Enugu,1570,Good,Bus
+1/15/2024,Abuja,2173,Poor,Car
+11/18/2024,Onitsha,83,Fair,Truck
+10/14/2024,Abuja,203,Fair,Motorcycle
+3/18/2024,Abuja,1168,Fair,Bus
+4/21/2025,Abuja,407,Poor,Motorcycle
+6/18/2024,Abuja,1191,Poor,Truck
+6/3/2024,Enugu,1278,Good,Bus
+12/6/2024,Port Harcourt,941,Good,Motorcycle
+6/19/2025,Port Harcourt,1595,Good,Truck
+12/14/2024,Lagos,1718,Poor,Motorcycle
+5/20/2025,Onitsha,1971,Good,Car
+7/8/2025,Lagos,410,Good,Bus
+2/17/2024,Port Harcourt,654,Fair,Car
+3/3/2025,Lagos,1149,Poor,Car
+8/19/2025,Onitsha,1446,Good,Motorcycle
+7/19/2024,Port Harcourt,1839,Good,Motorcycle
+12/9/2024,Abuja,2100,Fair,Truck
+1/16/2025,Port Harcourt,1124,Fair,Bus
+6/23/2025,Lagos,1564,Fair,Car
+10/18/2024,Abuja,1687,Poor,Motorcycle
+7/25/2024,Port Harcourt,891,Fair,Motorcycle
+5/30/2024,Abuja,654,Poor,Truck
+4/27/2024,Abuja,795,Fair,Truck
+6/26/2025,Lagos,111,Fair,Bus
+4/16/2024,Onitsha,1632,Poor,Bus
+8/11/2025,Port Harcourt,886,Fair,Car
+3/17/2025,Port Harcourt,1748,Fair,Motorcycle
+9/5/2024,Lagos,1107,Poor,Motorcycle
+3/19/2025,Enugu,331,Poor,Motorcycle
+12/8/2024,Port Harcourt,926,Fair,Truck
+6/4/2024,Lagos,132,Good,Car
+1/21/2025,Enugu,1608,Poor,Truck
+2/6/2025,Abuja,1227,Poor,Bus
+4/30/2025,Enugu,1507,Good,Truck
+6/13/2025,Port Harcourt,1128,Poor,Motorcycle
+2/22/2024,Abuja,1107,Fair,Truck
+4/10/2025,Enugu,924,Fair,Truck
+5/31/2025,Lagos,2050,Fair,Bus
+8/9/2024,Enugu,2017,Good,Truck
+8/11/2024,Lagos,1213,Fair,Motorcycle
+7/24/2025,Abuja,1643,Poor,Bus
+5/30/2025,Abuja,1311,Poor,Motorcycle
+3/29/2025,Enugu,1695,Good,Truck
+9/5/2024,Onitsha,379,Good,Bus
+3/3/2024,Port Harcourt,1212,Poor,Motorcycle
+1/1/2024,Onitsha,545,Fair,Bus
+5/5/2025,Port Harcourt,1528,Poor,Car
+12/30/2024,Abuja,463,Poor,Motorcycle
+4/30/2024,Port Harcourt,1218,Good,Motorcycle
+3/20/2024,Abuja,1419,Fair,Bus
+3/20/2025,Onitsha,740,Good,Truck
+4/10/2024,Onitsha,245,Fair,Motorcycle
+2/14/2024,Abuja,430,Poor,Car
+4/26/2024,Port Harcourt,988,Good,Truck
+7/21/2025,Lagos,980,Good,Motorcycle
+4/25/2025,Port Harcourt,171,Fair,Bus
+11/27/2024,Enugu,1547,Fair,Truck
+8/23/2024,Abuja,329,Poor,Motorcycle
+7/12/2024,Lagos,508,Poor,Car
+12/18/2024,Abuja,2132,Good,Motorcycle
+1/25/2025,Onitsha,1605,Good,Truck
+10/31/2024,Onitsha,1734,Good,Bus
+1/22/2025,Abuja,859,Good,Car
+7/21/2025,Onitsha,202,Poor,Motorcycle
+8/7/2024,Abuja,366,Good,Car
+10/13/2024,Port Harcourt,1815,Good,Car
+10/29/2024,Enugu,1581,Good,Car
+2/25/2024,Lagos,1908,Fair,Truck
+7/7/2025,Port Harcourt,1488,Fair,Motorcycle
+5/14/2025,Onitsha,1647,Good,Car
+4/1/2024,Enugu,1295,Poor,Truck
+8/24/2024,Port Harcourt,433,Good,Bus
+5/12/2025,Abuja,377,Poor,Truck
+12/19/2024,Lagos,94,Poor,Motorcycle
+2/7/2024,Abuja,1097,Poor,Car
+10/28/2024,Abuja,1977,Fair,Truck
+11/7/2024,Port Harcourt,1813,Good,Truck
+5/9/2025,Enugu,1756,Fair,Motorcycle
+8/14/2024,Lagos,527,Poor,Truck
+8/12/2025,Port Harcourt,2156,Fair,Car
+3/3/2024,Abuja,590,Fair,Motorcycle
+7/13/2025,Lagos,177,Fair,Car
+3/10/2024,Onitsha,1634,Good,Car
+2/10/2025,Lagos,1017,Fair,Truck
+7/6/2025,Enugu,684,Good,Bus
+7/31/2025,Abuja,659,Good,Motorcycle
+2/2/2024,Port Harcourt,549,Good,Bus
+6/29/2024,Port Harcourt,675,Good,Motorcycle
+1/6/2025,Enugu,210,Good,Car
+1/30/2024,Lagos,1952,Poor,Truck
+3/17/2024,Onitsha,171,Good,Bus
+12/22/2024,Enugu,598,Fair,Truck
+1/1/2024,Abuja,1903,Poor,Truck
+8/17/2024,Onitsha,401,Poor,Bus
+1/3/2024,Abuja,1947,Fair,Truck
+12/7/2024,Onitsha,1379,Poor,Truck
+11/25/2024,Enugu,1905,Fair,Motorcycle
+4/29/2024,Onitsha,996,Fair,Motorcycle
+3/13/2025,Enugu,295,Poor,Car
+2/22/2024,Abuja,543,Fair,Car
+5/16/2024,Abuja,109,Fair,Bus
+10/22/2024,Port Harcourt,915,Good,Car
+11/19/2024,Enugu,638,Fair,Bus
+5/10/2025,Port Harcourt,765,Fair,Car
+8/5/2025,Port Harcourt,256,Good,Bus
+11/29/2024,Onitsha,254,Poor,Motorcycle
+1/17/2024,Lagos,1416,Fair,Truck
+1/3/2024,Onitsha,462,Poor,Bus
+12/25/2024,Lagos,2024,Fair,Bus
+1/30/2024,Abuja,1561,Fair,Car
+8/17/2024,Port Harcourt,139,Poor,Motorcycle
+11/29/2024,Abuja,1078,Fair,Car
+7/10/2024,Abuja,1370,Fair,Motorcycle
+7/11/2024,Port Harcourt,2182,Fair,Car
+4/17/2024,Abuja,1599,Good,Motorcycle
+8/27/2024,Onitsha,1473,Fair,Truck
+8/6/2024,Enugu,751,Poor,Motorcycle
+5/29/2024,Port Harcourt,2002,Good,Truck
+8/26/2024,Port Harcourt,340,Good,Truck
+3/4/2025,Onitsha,157,Good,Bus
+1/11/2025,Onitsha,1278,Fair,Motorcycle
+4/3/2025,Lagos,2052,Fair,Bus
+2/15/2025,Enugu,497,Poor,Bus
+3/24/2025,Abuja,1901,Poor,Truck
+3/26/2024,Lagos,929,Good,Bus
+1/6/2024,Lagos,120,Fair,Truck
+9/30/2024,Onitsha,209,Good,Car
+5/2/2025,Onitsha,2127,Fair,Car
+2/22/2024,Onitsha,1634,Fair,Motorcycle
+5/29/2025,Enugu,2189,Poor,Motorcycle
+4/21/2025,Abuja,1860,Poor,Bus
+8/6/2025,Abuja,1228,Fair,Truck
+9/8/2024,Enugu,1890,Poor,Bus
+3/10/2025,Onitsha,1075,Fair,Car
+7/7/2024,Lagos,2172,Good,Car
+10/18/2024,Lagos,2176,Poor,Motorcycle
+12/18/2024,Port Harcourt,1897,Fair,Bus
+10/8/2024,Lagos,1512,Poor,Truck
+6/18/2024,Port Harcourt,1428,Fair,Car
+9/18/2024,Port Harcourt,145,Good,Bus
+3/14/2025,Port Harcourt,867,Fair,Motorcycle
+2/23/2025,Onitsha,777,Good,Motorcycle
+8/14/2025,Enugu,1113,Good,Car
+10/23/2024,Onitsha,1771,Poor,Motorcycle
+9/17/2024,Onitsha,547,Fair,Truck
+2/15/2025,Lagos,544,Fair,Truck
+6/4/2025,Onitsha,388,Good,Bus
+3/6/2024,Abuja,517,Good,Bus
+6/16/2025,Lagos,132,Fair,Bus
+9/15/2024,Lagos,734,Poor,Truck
+5/6/2025,Port Harcourt,257,Fair,Bus
+3/18/2024,Enugu,501,Poor,Car
+2/9/2025,Lagos,551,Good,Motorcycle
+5/19/2024,Abuja,1574,Poor,Car
+3/5/2024,Lagos,560,Good,Truck
+1/11/2024,Port Harcourt,87,Fair,Motorcycle
+2/21/2025,Enugu,123,Poor,Truck
+2/1/2024,Abuja,1133,Good,Truck
+2/1/2024,Abuja,719,Fair,Motorcycle
+9/22/2024,Enugu,1407,Poor,Motorcycle
+3/7/2024,Lagos,835,Good,Bus
+7/22/2024,Abuja,1896,Fair,Bus
+5/20/2025,Lagos,1354,Fair,Motorcycle
+5/1/2024,Abuja,1715,Fair,Bus
+11/17/2024,Abuja,631,Poor,Car
+4/27/2025,Port Harcourt,334,Poor,Motorcycle
+3/22/2024,Port Harcourt,2040,Good,Car
+5/13/2024,Port Harcourt,2147,Poor,Bus
+3/19/2025,Onitsha,1730,Poor,Bus
+2/20/2024,Onitsha,656,Good,Truck
+5/22/2024,Enugu,1966,Fair,Car
+5/17/2025,Onitsha,675,Fair,Bus
+4/30/2024,Port Harcourt,1668,Poor,Motorcycle
+4/15/2025,Abuja,653,Poor,Car
+2/4/2025,Enugu,598,Poor,Car
+2/27/2025,Lagos,462,Fair,Bus
+5/4/2024,Abuja,1872,Fair,Motorcycle
+5/4/2024,Lagos,671,Fair,Truck
+1/23/2024,Lagos,602,Fair,Motorcycle
+1/23/2025,Lagos,1381,Fair,Bus
+8/13/2024,Onitsha,465,Fair,Car
+7/17/2025,Abuja,1596,Good,Car
+12/18/2024,Onitsha,643,Good,Motorcycle
+4/17/2025,Enugu,1034,Poor,Truck
+1/17/2024,Enugu,1966,Poor,Car
+3/1/2025,Lagos,1272,Good,Truck
+4/25/2025,Port Harcourt,119,Poor,Car
+1/10/2025,Enugu,2087,Good,Motorcycle
+10/26/2024,Lagos,329,Poor,Bus
+3/18/2025,Enugu,1124,Fair,Car
+3/17/2025,Abuja,1136,Good,Bus
